@@ -72,19 +72,3 @@ print(f"Scratch-built KNN Accuracy: {accuracy_scratch:.2f}")
 # Compare
 print(f"Difference in Accuracy: {accuracy - accuracy_scratch:.2f}")
 
-
-'''Comparison of results
-ccuracy/Performance: Both implementations provide the same accuracy since KNN is a simple algorithm, and both models perform similarly for small datasets.
-
-Training Time: Scikit-learn is generally faster due to its use of optimized libraries.
-
-Code Complexity: Scikit-learn abstracts away complexity, making the implementation simpler and less prone to errors.
-.
-Scalability: Scikit-learn scales much better with larger datasets due to built-in optimizations like KD-Trees or Ball Trees.'''
-
-
-
-
-
-'''Scikit-learn's KNN is more practical in real world scenarios especially when dealing with large datasets while model built from scratch is
-a great learning exercise to understand how knn actually works'''
