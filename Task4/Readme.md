@@ -1,1 +1,1 @@
-Details of the model is atteched in Task4.pdf
+Details of the model is attached in Task4.pdf
